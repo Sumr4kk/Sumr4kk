@@ -6,8 +6,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sumr4kk&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumr4kk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumr4kk&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumr4kk&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumr4kk&theme=solarized_dark)
