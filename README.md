@@ -10,4 +10,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumr4kk&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumr4kk&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumr4kk&theme=solarized_dark)
